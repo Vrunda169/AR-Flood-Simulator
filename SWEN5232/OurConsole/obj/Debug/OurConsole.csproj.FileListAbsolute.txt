@@ -1,0 +1,14 @@
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\OurConsole.exe.config
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\OurConsole.exe
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\OurConsole.pdb
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibBusinessLayer.dll
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibBusinessLayer.pdb
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\obj\Debug\OurConsole.csprojAssemblyReference.cache
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\obj\Debug\OurConsole.csproj.CoreCompileInputs.cache
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\obj\Debug\OurConsole.csproj.CopyComplete
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\obj\Debug\OurConsole.exe
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\obj\Debug\OurConsole.pdb
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibDataLayer.dll
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibDataLayer.pdb
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibCrossLevel.dll
+C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibCrossLevel.pdb

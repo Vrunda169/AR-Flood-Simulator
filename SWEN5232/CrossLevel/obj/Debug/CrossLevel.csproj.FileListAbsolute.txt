@@ -1,0 +1,6 @@
+C:\Users\findler\Source\Repos\SWEN5232\CrossLevel\obj\Debug\CrossLevel.csproj.CoreCompileInputs.cache
+C:\Users\findler\Source\Repos\SWEN5232\CrossLevel\bin\Debug\LibCrossLevel.dll
+C:\Users\findler\Source\Repos\SWEN5232\CrossLevel\bin\Debug\LibCrossLevel.pdb
+C:\Users\findler\Source\Repos\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.dll
+C:\Users\findler\Source\Repos\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.pdb
+C:\Users\findler\Source\Repos\SWEN5232\CrossLevel\obj\Debug\CrossLevel.csprojAssemblyReference.cache
