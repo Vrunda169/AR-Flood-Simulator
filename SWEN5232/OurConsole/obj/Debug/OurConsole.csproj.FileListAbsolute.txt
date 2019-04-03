@@ -40,3 +40,17 @@ C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\OurConsole\obj\Debug
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\OurConsole\obj\Debug\OurConsole.csproj.CopyComplete
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\OurConsole\obj\Debug\OurConsole.exe
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\OurConsole\obj\Debug\OurConsole.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\OurConsole.exe.config
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\OurConsole.exe
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\OurConsole.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\LibBusinessLayer.dll
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\LibCrossLevel.dll
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\LibDataLayer.dll
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\LibBusinessLayer.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\LibCrossLevel.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\bin\Debug\LibDataLayer.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\obj\Debug\OurConsole.csprojAssemblyReference.cache
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\obj\Debug\OurConsole.csproj.CoreCompileInputs.cache
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\obj\Debug\OurConsole.csproj.CopyComplete
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\obj\Debug\OurConsole.exe
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\OurConsole\obj\Debug\OurConsole.pdb

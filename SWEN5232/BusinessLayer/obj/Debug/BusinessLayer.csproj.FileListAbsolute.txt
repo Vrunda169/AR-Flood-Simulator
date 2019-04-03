@@ -29,3 +29,14 @@ C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\BusinessLayer\obj\De
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.dll
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\bin\Debug\LibBusinessLayer.dll
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\bin\Debug\LibBusinessLayer.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\bin\Debug\LibCrossLevel.dll
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\bin\Debug\LibDataLayer.dll
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\bin\Debug\LibCrossLevel.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\bin\Debug\LibDataLayer.pdb
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.dll
+D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.pdb
