@@ -25,12 +25,3 @@ C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\LibDataLayer.dll
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\LibDataLayer.pdb
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\bin\Debug\LibDataLayer.dll
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\bin\Debug\LibDataLayer.pdb
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\bin\Debug\LibCrossLevel.dll
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\bin\Debug\LibCrossLevel.pdb
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\obj\Debug\LibDataLayer.dll
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\DataLayer\obj\Debug\LibDataLayer.pdb

@@ -15,9 +15,3 @@ C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\bin\Debug
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\obj\Debug\CrossLevel.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.dll
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.pdb
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\CrossLevel\bin\Debug\LibCrossLevel.dll
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\CrossLevel\bin\Debug\LibCrossLevel.pdb
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\CrossLevel\obj\Debug\CrossLevel.csprojAssemblyReference.cache
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\CrossLevel\obj\Debug\CrossLevel.csproj.CoreCompileInputs.cache
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.dll
-D:\UHCL\4th sem\Capstone\Visual Studio Git\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.pdb
