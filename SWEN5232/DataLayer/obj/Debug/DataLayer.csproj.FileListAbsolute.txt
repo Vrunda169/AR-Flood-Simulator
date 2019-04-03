@@ -7,3 +7,12 @@ C:\Users\findler\Source\Repos\SWEN5232\DataLayer\obj\Debug\LibDataLayer.pdb
 C:\Users\findler\Source\Repos\SWEN5232\DataLayer\bin\Debug\LibCrossLevel.dll
 C:\Users\findler\Source\Repos\SWEN5232\DataLayer\bin\Debug\LibCrossLevel.pdb
 C:\Users\findler\Source\Repos\SWEN5232\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\bin\Debug\LibDataLayer.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\bin\Debug\LibDataLayer.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\bin\Debug\LibCrossLevel.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\bin\Debug\LibCrossLevel.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\obj\Debug\LibDataLayer.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\DataLayer\obj\Debug\LibDataLayer.pdb

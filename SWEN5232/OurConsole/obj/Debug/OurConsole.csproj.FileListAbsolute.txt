@@ -12,3 +12,17 @@ C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibDataLayer.dll
 C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibDataLayer.pdb
 C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibCrossLevel.dll
 C:\Users\findler\Source\Repos\SWEN5232\OurConsole\bin\Debug\LibCrossLevel.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\OurConsole.exe.config
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\OurConsole.exe
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\OurConsole.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\LibBusinessLayer.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\LibCrossLevel.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\LibDataLayer.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\LibBusinessLayer.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\LibCrossLevel.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\bin\Debug\LibDataLayer.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\obj\Debug\OurConsole.csprojAssemblyReference.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\obj\Debug\OurConsole.csproj.CoreCompileInputs.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\obj\Debug\OurConsole.csproj.CopyComplete
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\obj\Debug\OurConsole.exe
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\OurConsole\obj\Debug\OurConsole.pdb
