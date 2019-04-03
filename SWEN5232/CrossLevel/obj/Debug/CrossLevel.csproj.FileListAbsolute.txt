@@ -10,3 +10,8 @@ C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\CrossLevel\obj\Debug\
 C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\CrossLevel\obj\Debug\CrossLevel.csproj.CoreCompileInputs.cache
 C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.dll
 C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.pdb
+C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\bin\Debug\LibCrossLevel.dll
+C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\bin\Debug\LibCrossLevel.pdb
+C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\obj\Debug\CrossLevel.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.dll
+C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\CrossLevel\obj\Debug\LibCrossLevel.pdb

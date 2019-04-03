@@ -97,5 +97,11 @@ namespace SWEN5232.DataLayer
         {
             return locations.FindAll(x => x.Address.Contains(address)).FirstOrDefault();
         }
+        public String Hello()
+        {
+            return "Hello from data layer";
+        }
     }
+
+
 }
