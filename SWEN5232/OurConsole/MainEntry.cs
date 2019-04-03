@@ -17,17 +17,118 @@ namespace SWEN5232.OurConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Location.Announce());
+            //Testing Project Business Layer
+            //Console.WriteLine("Project Business Layer Test Start:");
+            //Console.WriteLine("Testing Save_Project Method...");
+            //Console.WriteLine("Enter Project ID:");
+            //string projectID=Console.ReadLine();
+            //int FloodLevel = 0;
+            //Console.WriteLine("Enter Flodd level:");
+            //int.TryParse(Console.ReadLine(), out FloodLevel);
+            //Console.WriteLine("Enter Project Name:");
+            //string projectName=Console.ReadLine();
+            //ProjectBL pbl = new ProjectBL();
+            //bool status=pbl.Save_Project(projectID, FloodLevel, projectName);
+            //if(status==true)
+            //{
+            //    Console.WriteLine("Project Added Successfully..");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Unable to add Project");
 
-            Console.WriteLine(Size.Announce());
+            //}
 
-            Console.WriteLine(Record.Announce());
 
-            Size s = new Size(1, 2, 4);
+            ////test delete project
+            //Console.WriteLine("Testing Delete_Project Method...");
+            //Console.WriteLine("Enter Project ID:");
+            //string pidForDelete = Console.ReadLine();
+            //bool statusOfDelete = pbl.Delete_Project(pidForDelete);
+            //if (statusOfDelete == true)
+            //{
+            //    Console.WriteLine("Project Delete Successfully..");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Unable to Delete Project");
 
-            Console.WriteLine($"This is a test on a Size Object: { s.latitude } { s.longtitude } { s.altitude }");
+            //}
 
-            Console.ReadKey(true);
+            ////test Open_Project 
+            //Console.WriteLine("Testing Open_Project Method...");
+            //Console.WriteLine("Enter Project ID:");
+            //string pidForOpenProject = Console.ReadLine();
+            //Project p = pbl.Open_Project(pidForOpenProject);
+            //if(p!=null)
+            //{
+            //    Console.WriteLine("Project ID is {0}", p.ProjectID);
+            //    Console.WriteLine("Project Name is {0}", p.ProjectName);
+            //    Console.WriteLine("Flood Level is {0}", p.FloodLevel);
+
+
+            //}
+
+
+            // End Testing Project Business Layer
+
+            // Start Testing Location Business Layer
+
+            //Console.WriteLine("Location Business Layer Test Start:");
+            //Console.WriteLine("Testing Set_currentlocation Method...");
+            //Console.WriteLine("Enter Address:");
+            //string address = Console.ReadLine();
+            //Console.WriteLine("Enter Longitude:");
+
+            //string longitude = Console.ReadLine();
+            //Console.WriteLine("Enter Latitude:");
+
+            //string latitude = Console.ReadLine();
+            //LocationBL lbl = new LocationBL();
+            //lbl.Set_currentlocation(address, longitude, latitude);
+            //Console.WriteLine("Location save success.");
+            //Console.WriteLine("");
+
+            //Console.WriteLine("Testing Get_currentlocation Method...");
+            //Console.WriteLine("");
+
+            //Location lc = lbl.Get_currentlocation();
+            //if (lc != null)
+            //{
+            //    Console.WriteLine("Address for current location is {0}", lc.Address);
+            //    Console.WriteLine("");
+
+            //    Console.WriteLine("Longitude current location is {0}", lc.Longitude);
+            //    Console.WriteLine("");
+
+            //    Console.WriteLine("Latitude current location is {0}", lc.Latitude);
+            //    Console.WriteLine("");
+
+            //}
+            //Console.WriteLine("");
+
+            //Console.WriteLine("Testing Get_Location Method...");
+            //Console.WriteLine("");
+
+            //Location lct = lbl.Get_currentlocation();
+            //if (lct != null)
+            //{
+            //    Console.WriteLine("Address found for given address line is {0}", lct.Address);
+            //    Console.WriteLine("");
+
+            //    Console.WriteLine("Longitude found for given address line is {0}", lct.Longitude);
+            //    Console.WriteLine("");
+
+            //    Console.WriteLine("Latitude found for given address line is {0}", lct.Latitude);
+            //    Console.WriteLine("");
+
+            //}
+
+
+            //End Location BL Test
+
         }
+
     }
+
 }

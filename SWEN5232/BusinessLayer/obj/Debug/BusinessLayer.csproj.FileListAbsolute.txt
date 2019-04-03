@@ -7,3 +7,14 @@ C:\Users\findler\Source\Repos\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.
 C:\Users\findler\Source\Repos\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\findler\Source\Repos\SWEN5232\BusinessLayer\bin\Debug\LibCrossLevel.dll
 C:\Users\findler\Source\Repos\SWEN5232\BusinessLayer\bin\Debug\LibCrossLevel.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\bin\Debug\LibBusinessLayer.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\bin\Debug\LibBusinessLayer.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\bin\Debug\LibCrossLevel.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\bin\Debug\LibDataLayer.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\bin\Debug\LibCrossLevel.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\bin\Debug\LibDataLayer.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.pdb
