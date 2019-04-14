@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Location.cs" />
+    <Compile Include="ModelBL.cs" />
+    <Compile Include="LocationBL.cs" />
+    <Compile Include="ProjectBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -52,6 +54,10 @@
     <ProjectReference Include="..\DataLayer\DataLayer.csproj">
       <Project>{790e031e-8574-46ee-8b3a-87de3098b39c}</Project>
       <Name>DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestBL_DL\TestBL_DL.csproj">
+      <Project>{d146b162-8d49-4175-896f-4413bb45952c}</Project>
+      <Name>TestBL_DL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
