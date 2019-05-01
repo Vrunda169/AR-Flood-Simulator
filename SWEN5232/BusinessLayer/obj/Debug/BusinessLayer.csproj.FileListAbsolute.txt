@@ -57,3 +57,7 @@ D:\Capstone-Architecture-master\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.c
 D:\Capstone-Architecture-master\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 D:\Capstone-Architecture-master\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.dll
 D:\Capstone-Architecture-master\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture2\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture2\SWEN5232\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture2\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.dll
+C:\Users\chand\Source\Repos\Capstone-Architecture2\SWEN5232\BusinessLayer\obj\Debug\LibBusinessLayer.pdb

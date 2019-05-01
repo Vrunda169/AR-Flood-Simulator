@@ -25,3 +25,5 @@ C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\LibDataLayer.dll
 C:\Users\ADMIN\source\repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\LibDataLayer.pdb
+C:\Users\chand\Source\Repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\chand\Source\Repos\Capstone-Architecture2\SWEN5232\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
